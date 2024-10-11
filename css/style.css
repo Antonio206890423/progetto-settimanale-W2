@@ -47,13 +47,14 @@ header{
 #sezione{
     background-color: white;
     display: inline-block;
+    max-width: 100%;
 }
 
 #sezione img{ 
 max-width: 20%;
 height: 400px;
 margin-right: auto;
-padding: 2rem;
+padding: 1rem;
 border-radius: 30%;
 align-self: center;
 }
@@ -73,4 +74,7 @@ align-self: center;
 
 .logo img{
     align-self: center;
+}
+h3{
+    text-align: center;
 }
