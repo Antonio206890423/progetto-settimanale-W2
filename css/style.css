@@ -1,0 +1,76 @@
+/* Your styles here */
+*{
+    box-sizing:border-b0x;
+}
+body{
+    background-color: rgb(231, 231, 231);
+    font-size: 1.32rem;
+    line-height: 1.6;
+    margin-inline: auto;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    width: auto;
+    background-color: rgb(231, 231, 231);
+}
+
+.logo{
+    background-color:   #222f3f;
+}
+.logo1{
+    width: 100px;
+padding: 7px;    
+}
+
+
+
+.menu{
+    background-color: grey;
+}
+.menu1{
+    background-color: orange;
+    margin-left: 5%;
+    margin-right: 5%;
+    padding: 3px;
+    text-align: center;
+    color: white;
+}
+
+header{
+    background-image: url(../images/titlebackground.png);
+    background-size: cover;
+    padding: 3.5rem;
+   margin-left: 5%;
+   margin-right: 5%;
+    text-align: center;
+    color: white;
+}
+#sezione{
+    background-color: white;
+    display: inline-block;
+}
+
+#sezione img{ 
+max-width: 20%;
+height: 400px;
+margin-right: auto;
+padding: 2rem;
+border-radius: 30%;
+align-self: center;
+}
+
+.bigimg{
+    max-width: 90%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.ancora{
+    background-color: #364759;
+}
+.ancora1{
+    background-color: #364759;
+    text-align: center;
+}
+
+.logo img{
+    align-self: center;
+}
